@@ -1,0 +1,100 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="#466D1D"
+xmlns:tools="http://schemas.android.com/tools">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="16dp"
+        tools:context=".activities.LoginActivity"
+        android:background="#466D1D">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fullname"
+            android:textSize="23dp"/>
+
+        <TextView
+            android:id="@+id/tvFullname"
+            android:layout_marginLeft="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Age"
+            android:textSize="23dp"/>
+
+        <TextView
+            android:id="@+id/tvAge"
+            android:layout_marginLeft="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Gender"
+            android:textSize="23dp"/>
+
+        <TextView
+            android:id="@+id/tvGender"
+            android:layout_marginLeft="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Phone number"
+            android:textSize="23dp"/>
+
+        <TextView
+            android:id="@+id/tvPN"
+            android:layout_marginLeft="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"/>
+
+
+
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/btnChangeProfile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Change profile"
+        android:layout_above="@+id/btnPasswordChange"/>
+
+    <Button
+        android:id="@+id/btnPasswordChange"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Change password"
+        android:layout_above="@+id/btnBack"/>
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Back to home page"
+        android:layout_alignParentBottom="true"/>
+
+
+
+</RelativeLayout>

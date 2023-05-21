@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "767238691696",
+    "firebase_url": "https://hospitalapp-3bfc1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "hospitalapp-3bfc1",
+    "storage_bucket": "hospitalapp-3bfc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767238691696:android:f12c2929e2b56f7ec20db5",
+        "android_client_info": {
+          "package_name": "com.example.firebaservrealdbk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767238691696-e2drrkqoviapg41iptkfissk1pgnr4ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1AKmdp_5MW_evt84lfSWnW-q08BGjwUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767238691696-e2drrkqoviapg41iptkfissk1pgnr4ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767238691696:android:b7ff10cc2480851ac20db5",
+        "android_client_info": {
+          "package_name": "com.example.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767238691696-e2drrkqoviapg41iptkfissk1pgnr4ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1AKmdp_5MW_evt84lfSWnW-q08BGjwUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767238691696-e2drrkqoviapg41iptkfissk1pgnr4ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767238691696:android:70c658804ad91a46c20db5",
+        "android_client_info": {
+          "package_name": "com.example.myhospitalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767238691696-e2drrkqoviapg41iptkfissk1pgnr4ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1AKmdp_5MW_evt84lfSWnW-q08BGjwUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767238691696-e2drrkqoviapg41iptkfissk1pgnr4ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767238691696:android:4ae05f9b1c44997cc20db5",
+        "android_client_info": {
+          "package_name": "com.xbach.hospitalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767238691696-e2drrkqoviapg41iptkfissk1pgnr4ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1AKmdp_5MW_evt84lfSWnW-q08BGjwUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767238691696-e2drrkqoviapg41iptkfissk1pgnr4ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
